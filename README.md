@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=analmahata&label=Profile%20views&color=0e75b6&style=flat" alt="analmahata" /> </p>
 
-- 🔭 I’m currently working on **SRIST website**
+- 🔭 I’m currently working on **<a href="https://bengalhackathon.com/">Bengal Hackathon</a>**
 
 - 🌱 I’m currently learning **Software development**
 
