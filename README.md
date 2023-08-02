@@ -61,7 +61,7 @@
 <div>
   <h2>👻 About</h2>
   <p>
-    Hello, and welcome! I'm Anex, a frontend web developer hailing from the enchanting state of West Bengal, India. With a passion for creating captivating digital     experiences, I specialize in frontend web development, and my love for code knows no bounds. Allow me to introduce myself and share a glimpse into my journey       and expertise.
+    Hello, and welcome! I'm Anal Mahata, a frontend web developer hailing from the enchanting state of West Bengal, India. With a passion for creating captivating digital     experiences, I specialize in frontend web development, and my love for code knows no bounds. Allow me to introduce myself and share a glimpse into my journey       and expertise.
   </p>
   <p>
     For me, frontend web development is not just a profession; it's an outlet for creative expression. Armed with a wide array of languages, including HTML, CSS,       SCSS, JavaScript, PHP, TypeScript, MySQL, Python, and Java, I embrace every project with enthusiasm. My mission is to bring design concepts to life and create      visually appealing and interactive user interfaces that leave a lasting impact.
