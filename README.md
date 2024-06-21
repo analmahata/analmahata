@@ -27,7 +27,7 @@
     </p>
     <h4>🌐 You can reach me on</h4>
     <div display="flex">
-      <a href="https://linkedin.com/in/analmahata"> <!-- Linkedin -->
+      <a href="https://linkedin.com/in/anal-mahata"> <!-- Linkedin -->
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
       </a>
       <a href="https://twitter.com/analmahata"> <!-- Twitter -->
