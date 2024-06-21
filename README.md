@@ -17,7 +17,7 @@
 <div>
   <div>
     <p>
-      |- 🔭 I’m currently working on <a href="https://bengalhackathon.com/">Bengal Hackathon</a> <br>
+      |- 🔭 I’m currently working with <a href="https://bengalhackathon.com/">Axis Delta</a> as a front-end developer <br>
       |- 🌱 I’m currently learning MERN stack <br>
       <!-- |- 👯 I’m looking to collaborate on ... <br>
       |- 🤔 I’m looking for help with ... <br> -->
