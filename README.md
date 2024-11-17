@@ -17,13 +17,13 @@
 <div>
   <div>
     <p>
-      |- 🔭 I am currently freelancing with <a href="https://bengalhackathon.com/">Axis Delta</a> as a front-end developer <br>
-      |- 🌱 I’m currently learning MERN stack <br>
-      <!-- |- 👯 I’m looking to collaborate on ... <br>
-      |- 🤔 I’m looking for help with ... <br> -->
-      |- 💬 Ask me about front-end development <br>
+      - 🔭 Currently working on the <a href="https://github.com/analmahata/AgriRover">AgriRover</a> project, exploring robotics and IoT <br>
+      - 🌱 Actively learning and expanding my technical skills. <br>
+      <!-- - 👯 I’m looking to collaborate on ... <br>
+      - 🤔 I’m looking for help with ... <br> -->
+      - 💬 Feel free to ask me about web development or related topics. <br>
       <!-- |- 😄 Pronouns:  <br> -->
-      |- ⚡ Fun fact: People are more creative in shower <br>
+      - ⚡ Fun fact: Studies suggest that people tend to be more creative while in the shower. <br>
     </p>
     <h4>🌐 You can reach me on</h4>
     <div display="flex">
@@ -56,29 +56,18 @@
     </div>
   </div>
 </div>
-
 <!-- About -->
 <div>
   <h2>👻 About</h2>
   <p>
-    Hello, and welcome! I'm Anal Mahata, a frontend web developer hailing from the enchanting state of West Bengal, India. With a passion for creating captivating digital     experiences, I specialize in frontend web development, and my love for code knows no bounds. Allow me to introduce myself and share a glimpse into my journey       and expertise.
+    Hello, and welcome! I'm Anal Mahata, a web developer hailing from the enchanting state of West Bengal, INDIA. With a passion for creating captivating digital experiences, I specialize in web development, and my love for code knows no bounds. Allow me to introduce myself and share a glimpse into my journey and expertise.
   </p>
-  <p>
-    For me, frontend web development is not just a profession; it's an outlet for creative expression. Armed with a wide array of languages, including HTML, CSS,       SCSS, JavaScript, PHP, TypeScript, MySQL, Python, and Java, I embrace every project with enthusiasm. My mission is to bring design concepts to life and create      visually appealing and interactive user interfaces that leave a lasting impact.
-  </p>
-  <h4 underline="none">⦿ Efficiency and Elegance with Tailwind CSS and Bootstrap</h4>
-  <p>
-    Efficiency is key in modern web development, and I achieve it by utilizing the power of Tailwind CSS and Bootstrap. Leveraging their pre-built components and       responsive design features, I ensure that my creations are not only visually stunning but also fully optimized for performance and user experience.
-  </p>
-  <h4 underline="none">⦿ Embarking on the MERN Stack Adventure</h4>
-  <p>
-    As a developer who constantly seeks growth and challenges, I'm currently on an exciting journey into the world of the MERN stack—MongoDB, Express.js, React,        and Node.js. Embracing the backend realm complements my frontend skills, allowing me to build robust and scalable web applications that harmoniously integrate      both worlds.
-  </p>
+  <!--
   <h4 underline="none">⦿ Join the Journey</h4>
   <p>
     Whether you are a fellow developer seeking inspiration or a curious individual intrigued by the world of frontend web development, Anex's GitHub profile            offers a glimpse into a world of creativity, innovation, and limitless possibilities. Join the journey and witness the magic of frontend development unfold         in this repository wonderland. Happy coding!
   </p>
-</div>
+</div>-->
 <br>
 
 <!-- Skills -->
